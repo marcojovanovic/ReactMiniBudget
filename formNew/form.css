@@ -1,0 +1,15 @@
+.flex-content{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+
+}
+
+
+.border-error{
+
+
+  border:2px solid red;
+}
